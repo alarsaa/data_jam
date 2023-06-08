@@ -1,4 +1,4 @@
-# data_jam - ## ✨ Sparkling Insights ✨
+# Data_jam - ## ✨ Sparkling Insights ✨
 
 Welcome to the Customer Churn Analysis and Call Center Performance project repository. This project aims to analyze customer data and call center data to gain insights into customer churn and improve call center performance. By leveraging data analysis techniques, statistical analysis, and machine learning algorithms, this project provides valuable insights to enhance customer retention strategies and optimize call center operations.
 
